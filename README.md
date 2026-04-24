@@ -31,12 +31,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na UNIFACENS** e desen
 
 ### 📂 Projetos em Destaque
 
-#### 🐾 [Find - Busca de Pets](https://github.com/renatofpog/Find)
+#### [Find - Busca de Pets](https://github.com/renatofpog/Find)
 Plataforma Full-Stack para anúncio de pets perdidos.
 * **Tech Stack:** Node.js, SQLite, JWT para autenticação e Bcrypt para segurança.
 * **Destaque:** Implementação de sistema de login seguro e persistência de dados local.
 
-#### 🛒 [E-commerce Backend API](https://github.com/renatofpog/habitual)
+#### [Habitual Backend API](https://github.com/renatofpog/habitual)
 API robusta para gerenciamento tarefas diárias, funcionando com uma agenda virtual.
 * **Tech Stack:** Node.js, Express, SQLite.
 * **Destaque:** Modelagem de banco de dados relacional e rotas protegidas.
