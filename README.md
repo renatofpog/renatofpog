@@ -36,10 +36,10 @@ Plataforma Full-Stack para anúncio de pets perdidos.
 * **Tech Stack:** Node.js, SQLite, JWT para autenticação e Bcrypt para segurança.
 * **Destaque:** Implementação de sistema de login seguro e persistência de dados local.
 
-#### [Habitual Backend API](https://github.com/renatofpog/habitual)
-API robusta para gerenciamento tarefas diárias, funcionando com uma agenda virtual.
-* **Tech Stack:** Node.js, Express, SQLite.
-* **Destaque:** Modelagem de banco de dados relacional e rotas protegidas.
+#### [WeatherCheck](https://github.com/renatofpog/weathercheck)
+Uma plataforma onde é possível visualizar o clima das cidades do mundo em tempo real.
+* **Tech Stack:** HTML, CSS.
+* **Destaque:** Utilizar API externa.
 
 ---
 
